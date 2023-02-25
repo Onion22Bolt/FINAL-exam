@@ -1,5 +1,5 @@
 <h1 align="center">
-Final exam of the "Operating System Concepts" discipline 
+Final exam of the "Operating System Concepts" discipline__
 	by CS-2102 group's students.
 </h1>
 
