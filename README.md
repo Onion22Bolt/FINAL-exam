@@ -26,7 +26,7 @@ Final exam of the "Operating System Concepts"
 **Task 2**
 
 On virtual machines, implement all three methods of connecting to the Internet 
-(a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
+<br /> (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
 
 **Task 3. Development of the Linux OS kernel module**
   
