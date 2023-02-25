@@ -11,7 +11,7 @@ Final exam of the "Operating System Concepts"
 
 1. Add a new user to the system.
 2. Log in as root.
-3. Add a user named student to the system (use the useradd and passwd commands):Useradd student Passwd student
+3. Add a user named student to the system (use the useradd and passwd commands): Useradd student Passwd student
 4. After entering the passwd student command, the message will appear on the screen:
 <br /> Enter new password:
 <br /> You must set a password for the user (at least 5 characters) and press <Enter>. 
@@ -25,7 +25,8 @@ Final exam of the "Operating System Concepts"
  
 **Task 2**
 
-On virtual machines, implement all three methods of connecting to the Internet (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
+On virtual machines, implement all three methods of connecting to the Internet 
+(a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
 
 **Task 3. Development of the Linux OS kernel module**
   
