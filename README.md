@@ -19,13 +19,18 @@ student Password command:
 After entering the password, you will see an invitation: student@tty0[/]$ 
 Enter the whoami command and make sure that you are logged in as the student user. To finish working with the user, use the logout command. 
  
+ 
 **Task 2**
 
 On virtual machines, implement all three methods of connecting to the Internet (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server). 
+ 
   
 **Task 3. Development of the Linux OS kernel module**
   
 https://www.altlinux.org/Сборка_модулей_cores
+ 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
   
 > #### General requirements for the report
