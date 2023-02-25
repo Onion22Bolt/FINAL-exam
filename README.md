@@ -24,16 +24,14 @@ Final exam of the "Operating System Concepts"
 <br /> Enter the whoami command and make sure that you are logged in as the student user. To finish working with the user, use the logout command. 
  
 **Task 2**
-
 <br /> On virtual machines, implement all three methods of connecting to the Internet 
 <br /> (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
 
 **Task 3. Development of the Linux OS kernel module**
-  
 <br /> https://www.altlinux.org/Сборка_модулей_cores
 	
 ### General requirements for the report
-<br /> > 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
+> <br /> 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
 <br /> > 2. Test results of the task. 
 <br /> > 3. Conclusions. 
   
