@@ -12,13 +12,13 @@
 4. After entering the passwd student command, the message will appear on the screen:
 <br /> Enter new password:
 <br /> You must set a password for the user (at least 5 characters) and press <Enter>. 
-Please note that when you enter the password, it is not displayed on the screen. After that, a message will be displayed: 
-Re-enter new password: 
-You must re-enter the same password that you set for the student user. After pressing the <Enter> key, the screen will display: Password changed. 
-So, you have registered a new user in the system and given him a password, now you can log in under this user using the login: [home/dsl]# login Box login: 
-student Password command: 
-After entering the password, you will see an invitation: student@tty0[/]$ 
-Enter the whoami command and make sure that you are logged in as the student user. To finish working with the user, use the logout command. 
+<br /> Please note that when you enter the password, it is not displayed on the screen. After that, a message will be displayed: 
+<br /> Re-enter new password: 
+<br /> You must re-enter the same password that you set for the student user. After pressing the <Enter> key, the screen will display: Password changed. 
+<br /> So, you have registered a new user in the system and given him a password, now you can log in under this user using the login: [home/dsl]# login Box login: 
+<br /> student Password command: 
+<br /> After entering the password, you will see an invitation: student@tty0[/]$ 
+<br /> Enter the whoami command and make sure that you are logged in as the student user. To finish working with the user, use the logout command. 
  
  
 **Task 2**
