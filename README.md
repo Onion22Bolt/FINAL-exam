@@ -32,12 +32,12 @@ On virtual machines, implement all three methods of connecting to the Internet
 	
 https://www.altlinux.org/Сборка_модулей_cores
 	
-<br /> ### General requirements for the report
+### <br /> General requirements for the report
 > 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
 > 2. Test results of the task. 
 > 3. Conclusions. 
   
-<br /> ### Rules
+### <br /> Rules
 > 1. Teamwork of up to 5 students from one group
 > 2. When copying is detected from other teams, the results are manipulated
 > 3. Create a report in pdf 
