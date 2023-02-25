@@ -1,7 +1,7 @@
 # FINAL-exam
-**_Final exam of the "Operating System Concepts" discipline by CS-2102 group's students._**
+## Final exam of the "Operating System Concepts" discipline by CS-2102 group's students.
 
-`Final`
+### `Final`
 
 _Task 1_
 1 Add a new user to the system.
