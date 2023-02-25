@@ -1,4 +1,4 @@
-<h1 align="center">
+## <h1 align="center">
 Final exam of the "Operating System Concepts" discipline
 <br /> by CS-2102 group's students.
 </h1>
@@ -6,6 +6,10 @@ Final exam of the "Operating System Concepts" discipline
 <h1 align="center">
 	Final
 </h1>
+
+<p align="justify">
+  Lorem ipsum
+</p>
 
 **Task 1**
 
