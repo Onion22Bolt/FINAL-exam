@@ -25,22 +25,22 @@ Final exam of the "Operating System Concepts"
  
 **Task 2**
 
-On virtual machines, implement all three methods of connecting to the Internet 
+<br /> On virtual machines, implement all three methods of connecting to the Internet 
 <br /> (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
 
 **Task 3. Development of the Linux OS kernel module**
   
-https://www.altlinux.org/Сборка_модулей_cores
+<br /> https://www.altlinux.org/Сборка_модулей_cores
 	
 ### General requirements for the report
-> 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
-> 2. Test results of the task. 
-> 3. Conclusions. 
+<br /> > 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
+<br /> > 2. Test results of the task. 
+<br /> > 3. Conclusions. 
   
 ### Rules
-> 1. Teamwork of up to 5 students from one group
-> 2. When copying is detected from other teams, the results are manipulated
-> 3. Create a report in pdf 
-> 4. Upload report to moodle for the final exam
+<br /> > 1. Teamwork of up to 5 students from one group
+<br /> > 2. When copying is detected from other teams, the results are manipulated
+<br /> > 3. Create a report in pdf 
+<br /> > 4. Upload report to moodle for the final exam
 
   
