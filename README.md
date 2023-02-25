@@ -23,14 +23,12 @@
  
 **Task 2**
 
-On virtual machines, implement all three methods of connecting to the Internet (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).
-<br /> 
+On virtual machines, implement all three methods of connecting to the Internet (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server).__
 
 **Task 3. Development of the Linux OS kernel module**
   
-https://www.altlinux.org/Сборка_модулей_cores
-<br />  
-
+https://www.altlinux.org/Сборка_модулей_cores__
+	
 ### General requirements for the report
 > 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
 > 2. Test results of the task. 
