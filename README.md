@@ -27,6 +27,7 @@ On virtual machines, implement all three methods of connecting to the Internet (
 
 <br /> 
 <br /> 
+
 **Task 3. Development of the Linux OS kernel module**
   
 https://www.altlinux.org/Сборка_модулей_cores
