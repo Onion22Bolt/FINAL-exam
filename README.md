@@ -4,10 +4,11 @@
 ### `Final`
 
 **Task 1**
-1 Add a new user to the system.
-2 Log in as root.
-3 Add a user named student to the system (use the useradd and passwd commands):Useradd student Passwd student
-4 After entering the passwd student command, the message will appear on the screen: 
+
+1) Add a new user to the system.
+2) Log in as root.
+3) Add a user named student to the system (use the useradd and passwd commands):Useradd student Passwd student
+4) After entering the passwd student command, the message will appear on the screen: 
 Enter new password:
 You must set a password for the user (at least 5 characters) and press <Enter>. 
 Please note that when you enter the password, it is not displayed on the screen. After that, a message will be displayed: 
@@ -19,6 +20,7 @@ After entering the password, you will see an invitation: student@tty0[/]$
 Enter the whoami command and make sure that you are logged in as the student user. To finish working with the user, use the logout command. 
  
 **Task 2**
+
 On virtual machines, implement all three methods of connecting to the Internet (a "Direct" IP connection to the Internet, a connection via NAT and a connection via a proxy server). 
   
 **Task 3. Development of the Linux OS kernel module**
