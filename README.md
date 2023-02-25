@@ -1,9 +1,9 @@
 # FINAL-exam
-_## Final exam of the "Operating System Concepts" discipline by CS-2102 group's students._
+## _Final exam of the "Operating System Concepts" discipline by CS-2102 group's students._
 
 ### `Final`
 
-_Task 1_
+__Task 1__
 1 Add a new user to the system.
 2 Log in as root.
 3 Add a user named student to the system (use the useradd and passwd commands):Useradd student Passwd student
