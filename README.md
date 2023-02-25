@@ -1,6 +1,6 @@
 <h1 align="center">
 Final exam of the "Operating System Concepts"
-<br /> by CS-2102 group's students.
+<br /> by CS-2102 group's students
 </h1>
 
 <h1 align="center">
