@@ -2,9 +2,7 @@
 	Final
 </h1>
 
-<h1 align="center">
-Final exam of the "Operating System Concepts" discipline by CS-2102 group's students.
-</h1>
+## _Final exam of the "Operating System Concepts" discipline by CS-2102 group's students._
 
 **Task 1**
 
