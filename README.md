@@ -10,8 +10,8 @@
 2. Log in as root.
 3. Add a user named student to the system (use the useradd and passwd commands):Useradd student Passwd student
 4. After entering the passwd student command, the message will appear on the screen:
-Enter new password:
-You must set a password for the user (at least 5 characters) and press <Enter>. 
+<br /> Enter new password:
+<br /> You must set a password for the user (at least 5 characters) and press <Enter>. 
 Please note that when you enter the password, it is not displayed on the screen. After that, a message will be displayed: 
 Re-enter new password: 
 You must re-enter the same password that you set for the student user. After pressing the <Enter> key, the screen will display: Password changed. 
