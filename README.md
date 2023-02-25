@@ -1,15 +1,11 @@
-## <h1 align="center">
-Final exam of the "Operating System Concepts" discipline
-<br /> by CS-2102 group's students.
+<h1 align="center">
+Final exam
+<br /> of the "Operating System Concepts" discipline by CS-2102 group's students.
 </h1>
 
 <h1 align="center">
 	Final
 </h1>
-
-<p align="justify">
-  Lorem ipsum
-</p>
 
 **Task 1**
 
