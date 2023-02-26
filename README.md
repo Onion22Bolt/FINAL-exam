@@ -35,8 +35,7 @@ https://www.altlinux.org/Сборка_модулей_cores
 <br /> <br />
 
 <h1 align="center">
-Screenshots of the code
-<br /> compilation result:
+Screenshots of the code compilation result:
 </h1>
 
 #task3
