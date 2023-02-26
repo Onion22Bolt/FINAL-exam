@@ -31,16 +31,14 @@ On virtual machines, implement all three methods of connecting to the Internet
 <br /> **Task 3. Development of the Linux OS kernel module**
 	
 https://www.altlinux.org/Сборка_модулей_cores
-	
-### <br /> General requirements for the report
-> 1. The algorithm for solving the problem; the results of the completed task with screenshots of each stage.
-> 2. Test results of the task. 
-> 3. Conclusions. 
-  
-### <br /> Rules
-> 1. Teamwork of up to 5 students from one group
-> 2. When copying is detected from other teams, the results are manipulated
-> 3. Create a report in pdf 
-> 4. Upload report to moodle for the final exam
 
-  
+<br /> <br />
+
+<h1 align="center">
+Screenshots of the code
+<br /> compilation result:
+</h1>
+
+#task3
+<br /> ![image](https://user-images.githubusercontent.com/99860769/221424706-2d22458b-ac35-40cb-94b9-cd09dcf0b0b9.png)
+
