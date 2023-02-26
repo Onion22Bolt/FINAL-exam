@@ -38,6 +38,6 @@ https://www.altlinux.org/Сборка_модулей_cores
 Screenshots of the code compilation result:
 </h1>
 
-#task3
+# task3
 <br /> ![image](https://user-images.githubusercontent.com/99860769/221424706-2d22458b-ac35-40cb-94b9-cd09dcf0b0b9.png)
 
