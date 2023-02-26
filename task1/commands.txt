@@ -1,0 +1,6 @@
+1) sudo su -
+2) useradd student
+3) passwd student
+4) login student
+5) whoami
+6) exit
