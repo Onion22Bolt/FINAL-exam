@@ -16,7 +16,7 @@ static void pen_disconnect(struct usb_interface *interface)
 static struct usb_device_id pen_table[] =
 {
     { USB_DEVICE(0x058F, 0x6387) },
-    {} /* Terminating entry */
+    {} 
 };
 MODULE_DEVICE_TABLE (usb, pen_table);
  
